@@ -380,8 +380,10 @@ Rx==3.2.0
 scapy==2.4.5+g9420c22
 SciPy==1.8.1
 secure==0.3.0
+semantic-version==2.10.0
 service-identity==18.1.0
 setproctitle==1.3.1
+setuptools-rust==1.5.2
 sgmllib3k==1.0.0
 shodan==1.28.0
 simple-rest-client==1.1.3
